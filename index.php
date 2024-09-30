@@ -1,9 +1,12 @@
 <!DOCTYPE HTML>
 <html>
-<link rel="apple-touch-icon" sizes="180x180" href="favicons/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="favicons/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="favicons/favicon-16x16.png">
-<link rel="manifest" href="favicons/site.webmanifest">
+
+<head>
+  <link rel="apple-touch-icon" sizes="180x180" href="favicons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicons/favicon-16x16.png">
+  <link rel="manifest" href="favicons/site.webmanifest">
+</head>
 
 <body>
   <link rel="apple-touch-icon" sizes="180x180" href="favicons/apple-touch-icon.png">
@@ -31,14 +34,14 @@
           </p>
 
 
-        
-            <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">
-              submit
-            </button>
-          </div>
-        </form>
+
+          <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">
+            submit
+          </button>
       </div>
-    </div>
+  </form>
+  </div>
+  </div>
   </form>
   </div>
   </form>
